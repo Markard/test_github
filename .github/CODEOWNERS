@@ -1,3 +1,6 @@
-# https://help.github.com/articles/about-codeowners/
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
 
-* @Markard @oleja
+# These owners will be the default owners for everything in the repo.
+*       @Markard
+*       @4everbut4er

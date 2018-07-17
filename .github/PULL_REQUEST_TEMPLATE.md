@@ -1,11 +1,3 @@
-| Q                         | A
-| ------------------------- | ---
-| Ссылка на тикет в Jira    | 
+Задача в Jira: {ссылка на задачу} 
 
-
-<!-- Не забудьте дождаться выполнения тестов! -->
-
-
-### For all changes:
-- [ ] Is there a JIRA ticket associated with this PR? Is it referenced 
-     in the commit message?
+# Описание: {описание и причина изменений}
